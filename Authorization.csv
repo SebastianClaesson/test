@@ -1,0 +1,5 @@
+"DisplayName";"Description";"Path"
+"Allowed Principal Ids";"This policy defines an allow list of Principal IDs that can be used in IAM";"https://github.com/Azure/Community-Policy/tree/master/Policies/Authorization/allowed-principal-ids/azurepolicy.json"
+"Allowed Role Definitions";"This policy defines an allow list of role definitions that can be used in IAM";"https://github.com/Azure/Community-Policy/tree/master/Policies/Authorization/allowed-role-definitions/azurepolicy.json"
+"Allowed Role Definitions For Specific Principal IDs";"This policy defines an allow list of role definitions that can be assigned to specific Principal IDs in IAM. This is useful in the example where you don't want an SPN having it's rights elevated.";"https://github.com/Azure/Community-Policy/tree/master/Policies/Authorization/allowed-role-definitions-for-specific-principal-ids/azurepolicy.json"
+"Disallowed Role Definitions";"This policy defines a deny list of role deifnitions that can not be used in IAM";"https://github.com/Azure/Community-Policy/tree/master/Policies/Authorization/disallowed-role-definitions/azurepolicy.json"

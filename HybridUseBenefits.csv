@@ -1,0 +1,6 @@
+"DisplayName";"Description";"Path"
+"deploy-hybrid-use-sql-elastic-pools";"deploy-hybrid-use-sql-elastic-pools";"https://github.com/Azure/Community-Policy/tree/master/Policies/HybridUseBenefits/deploy-hybrid-use-sql-elastic-pools/azurepolicy.json"
+"deploy-hybrid-use-sql-iaas";"deploy-hybrid-use-sql-iaas";"https://github.com/Azure/Community-Policy/tree/master/Policies/HybridUseBenefits/deploy-hybrid-use-sql-iaas/azurepolicy.json"
+"deploy-hybrid-use-sql-mi";"deploy-hybrid-use-sql-mi";"https://github.com/Azure/Community-Policy/tree/master/Policies/HybridUseBenefits/deploy-hybrid-use-sql-mi/azurepolicy.json"
+"deploy-hybrid-use-sql-paas";"deploy-hybrid-use-sql-paas";"https://github.com/Azure/Community-Policy/tree/master/Policies/HybridUseBenefits/deploy-hybrid-use-sql-paas/azurepolicy.json"
+"deploy-hybrid-use-windows-server";"deploy-hybrid-use-windows-server";"https://github.com/Azure/Community-Policy/tree/master/Policies/HybridUseBenefits/deploy-hybrid-use-windows-server/azurepolicy.json"

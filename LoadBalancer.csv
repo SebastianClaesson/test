@@ -1,0 +1,6 @@
+"DisplayName";"Description";"Path"
+"Deny load balancer outbound rules";"Deny load balancer outbound rules";"https://github.com/Azure/Community-Policy/tree/master/Policies/LoadBalancer/Deny load balancer outbound rules/azurepolicy.json"
+"Enforce disabling of snat in load balancer rules";"Enforce disabling of snat in load balancer rules";"https://github.com/Azure/Community-Policy/tree/master/Policies/LoadBalancer/Enforce disabling of snat in load balancer rules/azurepolicy.json"
+"Enforce lb private ip addresses only in frontend configuration";"Enforce lb private ip addresses only in frontend configuration";"https://github.com/Azure/Community-Policy/tree/master/Policies/LoadBalancer/Enforce lb private ip addresses only in frontend configuration/azurepolicy.json"
+"Enforce load balancer regional TIER";"Enforce load balancer regional TIER";"https://github.com/Azure/Community-Policy/tree/master/Policies/LoadBalancer/Enforce load balancer regional TIER/azurepolicy.json"
+"Enforce load balancer standard SKU";"Enforce load balancer standard SKU";"https://github.com/Azure/Community-Policy/tree/master/Policies/LoadBalancer/Enforce load balancer standard SKU/azurepolicy.json"
